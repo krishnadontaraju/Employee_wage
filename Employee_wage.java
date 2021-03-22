@@ -2,8 +2,8 @@ public class Employee_wage_builder{
 
     public static void main(String[] args) {
 
-        System.out.println("Welcome to Wage computation Problem ");
-
+	int attendance_checker = (Math.random() *100 ) % 2;
+	System.out.println(attendance_checker);
     }
 
 }
