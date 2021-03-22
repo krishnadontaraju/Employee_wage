@@ -1,4 +1,4 @@
-public class Employee_wage{
+public class Employee_wage {
 
     public static void main(String[] args) {
 
